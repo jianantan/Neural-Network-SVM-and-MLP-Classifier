@@ -1,0 +1,39 @@
+Model with rank: 1
+Mean validation score: 0.914 (std: 0.030)
+Parameters: {'max_epochs': 500, 'module__num_hidden_1': 470, 'optimizer__lr': 0.03}
+
+Model with rank: 2
+Mean validation score: 0.910 (std: 0.024)
+Parameters: {'max_epochs': 1500, 'module__num_hidden_1': 420, 'optimizer__lr': 0.01}
+
+Model with rank: 3
+Mean validation score: 0.909 (std: 0.032)
+Parameters: {'max_epochs': 1000, 'module__num_hidden_1': 440, 'optimizer__lr': 0.06999999999999999}
+
+Model with rank: 3
+Mean validation score: 0.909 (std: 0.032)
+Parameters: {'max_epochs': 1000, 'module__num_hidden_1': 590, 'optimizer__lr': 0.03}
+
+Model with rank: 5
+Mean validation score: 0.909 (std: 0.038)
+Parameters: {'max_epochs': 500, 'module__num_hidden_1': 540, 'optimizer__lr': 0.060000000000000005}
+
+Model with rank: 5
+Mean validation score: 0.909 (std: 0.020)
+Parameters: {'max_epochs': 500, 'module__num_hidden_1': 570, 'optimizer__lr': 0.08}
+
+Model with rank: 5
+Mean validation score: 0.909 (std: 0.025)
+Parameters: {'max_epochs': 1000, 'module__num_hidden_1': 360, 'optimizer__lr': 0.02}
+
+Model with rank: 5
+Mean validation score: 0.909 (std: 0.025)
+Parameters: {'max_epochs': 1000, 'module__num_hidden_1': 420, 'optimizer__lr': 0.04}
+
+Model with rank: 5
+Mean validation score: 0.909 (std: 0.025)
+Parameters: {'max_epochs': 1000, 'module__num_hidden_1': 430, 'optimizer__lr': 0.01}
+
+Model with rank: 5
+Mean validation score: 0.909 (std: 0.025)
+Parameters: {'max_epochs': 1500, 'module__num_hidden_1': 240, 'optimizer__lr': 0.02}

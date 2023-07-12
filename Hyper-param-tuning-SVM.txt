@@ -1,0 +1,43 @@
+Model with rank: 1
+Mean validation score: 0.946 (std: 0.023)
+Parameters: {'C': 5, 'gamma': 'scale', 'kernel': 'rbf'}
+
+Model with rank: 1
+Mean validation score: 0.946 (std: 0.023)
+Parameters: {'C': 6, 'gamma': 'scale', 'kernel': 'rbf'}
+
+Model with rank: 1
+Mean validation score: 0.946 (std: 0.023)
+Parameters: {'C': 7, 'gamma': 'scale', 'kernel': 'rbf'}
+
+Model with rank: 1
+Mean validation score: 0.946 (std: 0.023)
+Parameters: {'C': 8, 'gamma': 'scale', 'kernel': 'rbf'}
+
+Model with rank: 5
+Mean validation score: 0.946 (std: 0.047)
+Parameters: {'C': 3, 'gamma': 'scale', 'kernel': 'rbf'}
+
+Model with rank: 6
+Mean validation score: 0.941 (std: 0.031)
+Parameters: {'C': 4, 'gamma': 'scale', 'kernel': 'rbf'}
+
+Model with rank: 6
+Mean validation score: 0.941 (std: 0.018)
+Parameters: {'C': 9, 'gamma': 'scale', 'kernel': 'rbf'}
+
+Model with rank: 6
+Mean validation score: 0.941 (std: 0.018)
+Parameters: {'C': 10, 'gamma': 'scale', 'kernel': 'rbf'}
+
+Model with rank: 9
+Mean validation score: 0.937 (std: 0.039)
+Parameters: {'C': 18, 'gamma': 'auto', 'kernel': 'rbf'}
+
+Model with rank: 9
+Mean validation score: 0.937 (std: 0.039)
+Parameters: {'C': 19, 'gamma': 'auto', 'kernel': 'rbf'}
+
+Model with rank: 9
+Mean validation score: 0.937 (std: 0.039)
+Parameters: {'C': 20, 'gamma': 'auto', 'kernel': 'rbf'}
