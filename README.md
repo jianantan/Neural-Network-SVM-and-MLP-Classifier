@@ -1,1 +1,2 @@
-# EE7207-Neural-and-Fuzzy-Systems
+# Neural-Network-SVM-and-MLP-Classifier
+Please see the ipynb file for detailed analysis.
